@@ -13,3 +13,4 @@ var currentYear = 2015;
 var age = currentYear - birthday;
 name + " is " + age + " years old.";
 */
+/*
